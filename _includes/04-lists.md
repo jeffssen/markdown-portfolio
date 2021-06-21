@@ -1,0 +1,4 @@
+- Wrestling
+- Tech
+- Gadgets
+- Your mom
