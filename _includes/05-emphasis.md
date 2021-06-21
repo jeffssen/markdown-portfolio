@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like **PowerShell**, **DevOps** and **Azure** but not _Hockey_ and _your mom_
